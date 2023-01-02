@@ -1,9 +1,9 @@
 Product manager
 	JSON-grejerna
-		Skapa fil
+		Skapa fil - A f
 		Spara fil
 		Ladda fil
-	
+
 UserManager
 	JSON-grejerna
 		Skapa fil
@@ -12,6 +12,7 @@ UserManager
 	ChangeCurrentUser
 	LogOut
 	Skapa kundkorg
+
 AdminView
 	UserManager_CurrentUserChanged
 	ProdList_OnSelectionChanged
@@ -19,12 +20,14 @@ AdminView
 	RemoveBtn_Click
 	LogoutBtn_Click
 	ListBox
+
 LoginView
 	UserManager_CurrentUserChanged
 	LoginBtn_Click
 	RegisterAdminBtn_Click
 	RegisterCurtomerBtn_Click
 	RegisterName_TextChanged
+
 ShopView
 	UserManager_CurrentUserChanged
 	RemoveBtn
@@ -32,6 +35,7 @@ ShopView
 	LogoutBtn
 	CheckOutBtn
 	ListBox
+
 
 VG
 	Product class
