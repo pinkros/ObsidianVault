@@ -1,14 +1,14 @@
 Product manager
 	JSON-grejerna
-		Skapa fil - A fixat
-		Spara fil - A fixat
-		Ladda fil - A fixat
+		Skapa fil - A fixat?
+		Spara fil - A fixat?
+		Ladda fil - A fixat?
 
 UserManager
 	JSON-grejerna
-		Skapa fil
-		Spara fil
-		Ladda fil
+		Skapa fil - A fixat?
+		Spara fil - A fixat?
+		Ladda fil - A fixat?
 	ChangeCurrentUser
 	LogOut
 	Skapa kundkorg
