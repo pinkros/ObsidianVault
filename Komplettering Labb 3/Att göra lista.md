@@ -1,14 +1,17 @@
+Admin
+	Enum.Parse funkar inte, måste se vad GetType gör....
+
 Product manager
 	JSON-grejerna
-		Skapa fil - A fixat?
-		Spara fil - A fixat?
-		Ladda fil - A fixat?
+		Skapa fil - A och M fixat?
+		Spara fil - A och M fixat?
+		Ladda fil 
 
 UserManager
 	JSON-grejerna
 		Skapa fil - A fixat?
 		Spara fil - A fixat?
-		Ladda fil - A fixat?
+		Ladda fil 
 	ChangeCurrentUser
 	LogOut
 	Skapa kundkorg
