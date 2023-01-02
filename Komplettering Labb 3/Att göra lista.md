@@ -1,8 +1,8 @@
 Product manager
 	JSON-grejerna
-		Skapa fil - A f
-		Spara fil
-		Ladda fil
+		Skapa fil - A fixat
+		Spara fil - A fixat
+		Ladda fil - A fixat
 
 UserManager
 	JSON-grejerna
