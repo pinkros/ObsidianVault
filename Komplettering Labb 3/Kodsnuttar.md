@@ -1,6 +1,6 @@
 
 ```cs
-Filsökvägar:
+//Filsökvägar:
 
 private static readonly string _jsonDirectory = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Den lelle butiken");
 
