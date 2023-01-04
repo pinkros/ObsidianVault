@@ -1,6 +1,7 @@
 Admin
 	Enum.Parse funkar inte, måste se vad GetType gör....
 
+- Har fortfarande problem att få den här att funka - M
 Product manager
 	JSON-grejerna
 		Skapa fil - A och M fixat?
